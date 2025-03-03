@@ -5,11 +5,14 @@ syntax on " syntax highlighting, omni-completion, +more
 runtime macros/matchit.vim
 
 set autoindent
+set smartindent
 set smarttab
 set softtabstop=4
 set shiftwidth=4
 set expandtab
-set listchars=tab:▷▷⋮
+
+set listchars=tab:>-,trail:-,nbsp:_
+set list
 
 set backspace=indent,eol,start " makes backspace nice
 set hidden " allows for multiple unsaved buffers
