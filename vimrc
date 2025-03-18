@@ -21,7 +21,7 @@ set ruler " shows current line
 set wildmenu " auto complete
 set autoread
 
-" set number
+set number
 set relativenumber
 
 set display+=lastline " start on last line
