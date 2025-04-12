@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/sdrcadmin/.vim'
 let g:netrw_dirhist_2='/afs/asu.edu/users/r/c/h/rchoud29/sp25/cse220/proj3'
 let g:netrw_dirhist_1='/afs/asu.edu/users/r/c/h/rchoud29/sp25/furi/dataGen/data.json'

@@ -27,6 +27,8 @@ set relativenumber
 set display+=lastline " start on last line
 set cc=80
 
+set nowrap
+
 set formatoptions+=r " auto comment
 set formatoptions+=o " auto comment
 set formatoptions+=j " auto comment
