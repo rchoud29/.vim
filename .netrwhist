@@ -1,4 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
-let g:netrw_dirhist_2='/afs/asu.edu/users/r/c/h/rchoud29/sp25/cse220/proj3'
-let g:netrw_dirhist_1='/afs/asu.edu/users/r/c/h/rchoud29/sp25/furi/dataGen/data.json'
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/reeyan/.vim'
+let g:netrw_dirhist_3='/home/reeyan/documents/sdrc-website/assets/html'
+let g:netrw_dirhist_2='/home/reeyan/documents/sdrc-website/assets'
+let g:netrw_dirhist_1='/home/reeyan/documents/sdrc-website'
+let g:netrw_dirhist_0='/home/reeyan/documents'
+let g:netrw_dirhist_9='/home/reeyan/documents/sdrc-website/assets/html'
+let g:netrw_dirhist_8='/home/reeyan/documents/sdrc-website/assets'
+let g:netrw_dirhist_7='/home/reeyan/documents/sdrc-website/assets/html'
+let g:netrw_dirhist_6='/home/reeyan/documents/sdrc-website/assets'
+let g:netrw_dirhist_5='/home/reeyan/documents/sdrc-website'
